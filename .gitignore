@@ -1,0 +1,7 @@
+# k6 test results (generated artifacts, tidak perlu di-commit)
+results/json/*
+results/summary/*
+results/report/*
+!results/json/.gitkeep
+!results/summary/.gitkeep
+!results/report/.gitkeep

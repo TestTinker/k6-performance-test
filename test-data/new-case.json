@@ -1,0 +1,35 @@
+{
+    "caseData": [
+        {
+            "id": "case-data-01",
+
+            "caseType": {
+                "name": "Absolute and Optional Data Quality"
+            },
+
+            "caseReasonCode": "ADHOC",
+            "casePriorityCode": "MEDIUM",
+
+            "taxpayerIdentifier": null,
+
+            "caseInvolvementTypeCode": null,
+            "communicationTypeCode": null,
+
+            "previousCaseIdentifier": null,
+            "previousCaseName": null,
+
+            "comments": "Performance Test 01",
+
+            "taxRegionCode": "180",
+            "taxOfficeCode": "524",
+
+            "caseConfidentialityLevel": null,
+            "confidentialityComment": null,
+
+            "protocolNumber": null,
+            "protocolDate": null,
+
+            "confidentialityLevel": null
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "id": "admin",
+            "username": "admin",
+            "passwordEnv": "PASSWORD",
+            "role": "admin"
+        }
+    ],
+
+    "vuAssignments": [
+        {
+            "vu": 1,
+            "userId": "admin"
+        }
+    ]
+}
